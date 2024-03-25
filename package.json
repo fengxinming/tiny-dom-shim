@@ -43,6 +43,7 @@
     "lint-staged": "^15.2.2",
     "pug": "^3.0.2",
     "vite": "^5.1.6",
+    "vite-plugin-cp": "^4.0.8",
     "vite-plugin-external": "^4.3.0",
     "vitest": "^1.4.0"
   },
